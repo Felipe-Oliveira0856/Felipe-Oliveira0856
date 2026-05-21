@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Feliphe Oliveira 👋👋
 
-- 🌱 19 anos
-- 🔭 Aluno da Fatec de Itapira, no curso de Desinvolvimento de Software Multiplataforma (DSM) - 2° Semestre
+- 🌱 20 anos
+- 🔭 Aluno da Fatec de Itapira, no curso de Desenvolvimento de Software Multiplataforma (DSM) - 3° Semestre
 - 👯 Formado na Etec João Maria Stevanatto em 2023 - Desenvolvimento de Sistemas (DS)
 - 🧠 Aprendendo a utilizar Git e GitHub
 
